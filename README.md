@@ -1,2 +1,2 @@
-# Sculpture_Gallary
+# gallery-view
 Created with CodeSandbox
